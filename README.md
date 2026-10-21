@@ -168,6 +168,6 @@ Contributors : Khairul Azrin B Azman ( Malaysia )
 Written By: Khairul Azrin B. Azman ( Malaysia )
 Email: khairulazrin2025@gmail.com
 
-Copyright (c) 2026 KA PC Network Services
+Copyright (c) 2026 E-ICEBLUE
 
 [Product Page](https://www.e-iceblue.com/Introduce/doc-for-CPP.html)  |  [Forum](https://www.e-iceblue.com/forum/spire-doc-f6.html) | [Temporary License](https://www.e-iceblue.com/TemLicense.html) | [Customized Demo](https://www.e-iceblue.com/Misc/customized-demo.html)
